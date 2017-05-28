@@ -1,2 +1,2 @@
 # WDI-10-Jackpot-game
-A jackpot machine.
+A jackpot machine.  -- Project 1  -- solo.
