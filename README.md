@@ -14,17 +14,18 @@ This is 1st project after 2 weeks of immersive course.
 A PC with browser is all you need. (The same one you got here with!)
    
 Just download the files from either folders & use the HTML file.
- <ul>  
+<ul>  
 Game's pretty straightforward, enter an amount & start pushing the button!
 <li>-- A Pair nets a 2x of your current amount</li>
 <li>-- 3 of same nets you 5x.</li>
 <li>-- 1 skull & you lose 1 coin</li>
 <li>-- 2 skulls , you lose 5 coins</li>
 <li>-- A whole row of skulls & you lose EVERYTHING!</li>
-   
+</ul> 
 <br>
 <b>
-Technologies / Languages used -</b>
+Technologies / Languages used -
+</b>
 <ul>
 <li>Javascript</li>
 <li>CSS</li>
@@ -32,7 +33,8 @@ Technologies / Languages used -</b>
 </ul>
 <br>
 <b>
-Technical Issues<em>  and Contributing</em></b>
+Technical Issues<em>  and Contributing</em>
+</b>
 
 It's not perfect. More for PC use and not exactly mobile friendly.
    
