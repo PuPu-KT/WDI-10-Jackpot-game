@@ -45,6 +45,15 @@ You can download & use it as you like.  Do update me for for any changes so i ca
 <b>
 Acknowlegment </b>
 
- Thanks to
+Thanks to
+
+--> our Instructors - Iskandar, Gen Sng & Jens Neilsen
+
+--> class of WDI-10 for some crazy ideas.
+
+--> Free Code Camp forums
+
+That's abt it ... i think...
+
 
 
