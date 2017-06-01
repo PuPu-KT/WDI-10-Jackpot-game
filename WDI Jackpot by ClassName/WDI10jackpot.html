@@ -1,0 +1,59 @@
+<html>
+
+<head>
+
+  <title>Jackpot Machine</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- <link rel="stylesheet" type="text/css" href="http://csshake.surge.sh/csshake.min.css"> -->
+
+</head>
+
+<body>
+  <!-- class='shake'  at a later time, perhaps? -->
+  <table>
+
+    <caption><img class="pic" src="jphead.jpeg"></caption>
+
+    <tr>
+
+      <th class='slot'><img class='sp1' src='0.png' alt='0.png' height='50' width='50'></th>
+
+      <th class='slot'><img class='sp2' src='1.png' alt='1.png' height='50' width='50'></th>
+
+      <th class='slot'><img class='sp3' src='2.png' alt='2.png' height='50' width='50'></th>
+
+    </tr>
+    <tr>
+
+      <th class='words'>Bet</th>
+
+      <th><button onclick="PullButt()">Push here</button></th>
+
+      <th class='words'>Score</th>
+
+    </tr>
+    <tr class='foot'>
+
+      <th><input class="bet" type="text" value='0' size="10"></th>
+
+      <th> </th>
+
+      <th><input class="score" type="text" value='0' size="10"></th>
+
+    </tr>
+    <tr class='screen'>
+
+      <th colspan="3">
+        <div class='sp4' style="font-size: x-large"></div>
+        <audio src="slotmachine.mp3" autoplay loop>Jackpot sounds</audio>
+      </th>
+
+    </tr>
+
+  </table>
+
+  <script src="main.js"></script>
+
+</body>
+
+</html>

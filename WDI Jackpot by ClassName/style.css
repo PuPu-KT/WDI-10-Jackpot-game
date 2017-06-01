@@ -1,0 +1,63 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url(jp.png) no-repeat fixed center;
+  background-size: cover;
+}
+
+caption {
+  border: 2px none #000;
+  border-radius: 5px;
+  height: 78px;
+  width: 330px;
+  margin-bottom: -3px;
+}
+
+img {
+  width: 100%;
+  height: 90%;
+}
+
+.pic {
+  width: 330px;
+  height: 78px;
+}
+
+.words {
+  font-size: 25px;
+  font-family: georgia;
+  color: white;
+}
+
+.sp4 {
+  margin-bottom: -35px;
+  height: 50px;
+  width: 325px;
+  border-radius: 10px;
+  background-color: #71a066;
+}
+
+.slot {
+  flex: 1 0 auto;
+  background: white;
+  height: 75px;
+  width: 50px;
+  margin: 8px;
+  border: 4px solid #222f86;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.foot {
+  height: 12px;
+  border: 2px none #000;
+}
+
+table {
+  max-width: 50%;
+  top: 15%;
+  left: 40%;
+  /* background-color: #ccd888;  removed! look better now?  discovered by accident! */
+  height: 300px;
+}
