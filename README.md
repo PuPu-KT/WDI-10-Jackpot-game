@@ -2,7 +2,7 @@
 # WDI-10-Jackpot-game
 A jackpot machine.  -- Project 1  -- solo.
 
-<b>Intro - Overview - </b>
+<b>Intro ~ Overview - </b>
 
 
 <b>Objective - How to Play</b>
