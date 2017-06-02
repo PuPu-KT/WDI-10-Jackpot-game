@@ -11,8 +11,7 @@ This is 1st project after 2 weeks of immersive course.
 
 <b>Objective - How to Play</b>
 
-A PC with browser is all you need. (The same one you got here with!)
-   
+A PC with browser is all you need. (The same one you got here with!)  
 Just download the files from either folders & use the HTML file.
 <ul>  
 Game's pretty straightforward, enter an amount & start pushing the button!
@@ -34,8 +33,7 @@ Technologies / Languages used -
 <br>
 <b>
 Technical Issues<em>  and Contributing</em>
-</b>
-
+<br>
 It's not perfect. More for PC use and not exactly mobile friendly.
    
 You can download & use it as you like.  Do update me for for any changes so i can learn.
@@ -52,6 +50,8 @@ Thanks to
 --> class of WDI-10 for some crazy ideas.
 
 --> Free Code Camp forums
+--> Codeacademy forums
+--> Khan Academy forums
 
 That's abt it ... i think...
 
