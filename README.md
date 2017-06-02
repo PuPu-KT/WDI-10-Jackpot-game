@@ -4,12 +4,12 @@ A jackpot machine.  -- Project 1  -- solo.
 <br>
 <br>
 <br>
-<b>Intro ~ Overview - </b>
+<h2>Intro ~ Overview - </h2>
 
 A jackpot machine built based on HTML/CSS/JS we learnt so far. 
 This is 1st project after 2 weeks of immersive course.
 
-<b>Objective - How to Play</b>
+<h2>Objective - How to Play</h2>
 
 A PC with browser is all you need. (The same one you got here with!)  
 Just download the files from either folders & use the HTML file.
@@ -23,7 +23,7 @@ Game's pretty straightforward, enter an amount & start pushing the button!
 </ul> 
 <br>
 <b>
-Technologies / Languages used -
+<h2>Technologies / Languages used - </h2>
 </b>
 <ul>
 <li>Javascript</li>
@@ -32,7 +32,7 @@ Technologies / Languages used -
 </ul>
 <br>
 <b>
-Technical Issues and Difficulties building this
+<h2>Technical Issues and Difficulties building this</h2>
 
  -- More for PC use and not exactly mobile friendly.
  
@@ -44,7 +44,7 @@ Technical Issues and Difficulties building this
 (You can download & use it as you like.  Do update me for for any changes so i can learn.)
 
 
-Acknowlegment </b>
+<h2>Acknowlegment </h2>
 
 Thanks to
 
