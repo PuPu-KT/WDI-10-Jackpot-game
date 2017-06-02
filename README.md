@@ -1,8 +1,8 @@
 
 # WDI-10-Jackpot-game
 A jackpot machine.  -- Project 1  -- solo.
-<br>
-<br>
+
+https://pupu-kt.github.io/WDI-Jackpot-by-ClassName/
 <br>
 <h2>Intro ~ Overview - </h2>
 
