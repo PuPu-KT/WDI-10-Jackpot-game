@@ -32,16 +32,14 @@ Technologies / Languages used -
 </ul>
 <br>
 <b>
-Technical Issues<em>  and Contributing</em>
+Technical Issues<em>and Contributing</em>
 <br/>
 <br/>
 It's not perfect. More for PC use and not exactly mobile friendly.
 <br/>
 You can download & use it as you like.  Do update me for for any changes so i can learn.
-   
-<br>
-   
-<b>
+
+
 Acknowlegment </b>
 
 Thanks to
