@@ -33,9 +33,10 @@ Technologies / Languages used -
 <br>
 <b>
 Technical Issues<em>  and Contributing</em>
-<br>
+<br/>
+<br/>
 It's not perfect. More for PC use and not exactly mobile friendly.
-   
+<br/>
 You can download & use it as you like.  Do update me for for any changes so i can learn.
    
 <br>
@@ -50,7 +51,9 @@ Thanks to
 --> class of WDI-10 for some crazy ideas.
 
 --> Free Code Camp forums
+
 --> Codeacademy forums
+
 --> Khan Academy forums
 
 That's abt it ... i think...
