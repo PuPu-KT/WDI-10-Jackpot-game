@@ -42,7 +42,7 @@ function PullButt() {
 
     cntr--;
 
-  } while (cntr > 0); // un-necessary loop to delay displays
+  } while (cntr > 0); // loop to delay displays
 
 
 
@@ -122,5 +122,12 @@ function PullButt() {
   document.getElementsByClassName('score')[0].value = scr;
 
   document.getElementsByClassName('sp4')[0].innerHTML = msg;
-
 }
+var button = document.getElementById('mute')
+button.onclick = function() {
+  if (audio.muted === false) {
+    audio.muted = true;
+  } else {
+    audio.muted = false;
+  }
+};

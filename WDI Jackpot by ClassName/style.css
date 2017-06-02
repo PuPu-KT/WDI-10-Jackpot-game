@@ -54,6 +54,11 @@ img {
   border: 2px none #000;
 }
 
+.mutebutt {
+  height: 30px;
+  width: 30px;
+}
+
 table {
   max-width: 50%;
   top: 15%;
