@@ -2,7 +2,7 @@ var ImageList = ('0123');
 
 // '3' is the "Danger(?)" image
 
-// '0', '1', '2' represent "Images"
+// '0', '1', '2' represent "images"
 
 // ()
 
@@ -17,24 +17,23 @@ function PullButt() {
   }
 
 
-
   var cntr = 5;
 
   do {
 
-    var p1 = Math.floor(Math.random() * ImageList.length);
+    var p1 = 1 + Math.floor(Math.random() * ImageList.length);
 
     document.getElementsByClassName('sp1')[0].src = ImageList.charAt(p1) + '.png';
 
     document.getElementsByClassName('sp1')[0].alt = ImageList.charAt(p1) + '.png';
 
-    var p2 = Math.floor(Math.random() * ImageList.length);
+    var p2 = 1 + Math.floor(Math.random() * ImageList.length);
 
     document.getElementsByClassName('sp2')[0].src = ImageList.charAt(p2) + '.png';
 
     document.getElementsByClassName('sp2')[0].alt = ImageList.charAt(p2) + '.png';
 
-    var p3 = Math.floor(Math.random() * ImageList.length);
+    var p3 = 1 + Math.floor(Math.random() * ImageList.length);
 
     document.getElementsByClassName('sp3')[0].src = ImageList.charAt(p3) + '.png';
 
