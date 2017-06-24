@@ -21,19 +21,19 @@ function PullButt() {
 
   do {
 
-    var p1 = 1 + Math.floor(Math.random() * ImageList.length);
+    var p1 = 2 + Math.floor(Math.random() * ImageList.length);
 
     document.getElementsByClassName('sp1')[0].src = ImageList.charAt(p1) + '.png';
 
     document.getElementsByClassName('sp1')[0].alt = ImageList.charAt(p1) + '.png';
 
-    var p2 = 1 + Math.floor(Math.random() * ImageList.length);
+    var p2 = 2 + Math.floor(Math.random() * ImageList.length);
 
     document.getElementsByClassName('sp2')[0].src = ImageList.charAt(p2) + '.png';
 
     document.getElementsByClassName('sp2')[0].alt = ImageList.charAt(p2) + '.png';
 
-    var p3 = 1 + Math.floor(Math.random() * ImageList.length);
+    var p3 = 2 + Math.floor(Math.random() * ImageList.length);
 
     document.getElementsByClassName('sp3')[0].src = ImageList.charAt(p3) + '.png';
 
